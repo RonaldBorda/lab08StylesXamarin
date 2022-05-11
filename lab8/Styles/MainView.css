@@ -1,0 +1,27 @@
+﻿body {
+}
+.Page {
+    background: black;
+}
+.Titulo{
+    font-size:large;
+    text-align:center;
+    color:black;
+
+}
+.btnButon1 {
+    background-color: #FF9E21;
+    color: white;
+}
+.lblDescripcion{
+   
+}
+.lblCenter {
+    font-size: large;
+    text-align: center;
+    color: #FF9E21;
+}
+.btnButon2 {
+    background-color: #0A0A0A;
+    color: white;
+}

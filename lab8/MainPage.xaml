@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab8.MainPage">
+    <ContentPage.Resources>
+        <StyleSheetExtension Source="../Styles/MainView.css"/>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Margin="10,70, 10, 0">
+        <Label Text="GTA V" HorizontalOptions="Center" VerticalOptions="Start" Padding="20" StyleClass="Titulo"/>
+        <Button Text="Watch the trailer" StyleClass="btnButon1"/>
+        <Button Text="Buy now" StyleClass="btnButon1"/>
+        <Label Text="Bienvenidos a Los Santos" Padding="20" StyleClass="Titulo"/>
+        <Label StyleClass="lblDescripcion" Text="Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven envueltos con algunos de los elementos más aterradores y trastornados del inframundo criminal, el gobierno de los EE. UU. y la industria del entretenimiento, deben llevar a cabo una serie de peligrosos atracos. sobrevivir en una ciudad despiadada en la que no pueden confiar en nadie, y menos en los demás."/>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Padding="0, 10, 0, 0">
+                <Label Text="Grand Theft Auto en línea" StyleClass="lblCenter"/>
+                <Label Text="Incluye GTA Online"/>
+                <Button Text="Seleccionar plataforma" StyleClass="btnButon2"/>
+            </StackLayout>
+            <StackLayout Padding="0, 10, 0, 0">
+                <Label Text="Grand Theft Auto V" StyleClass="lblCenter"/>
+                <Label Text="Incluye el modo Historia de GTAV y GTA Online"/>
+                <Button Text="Seleccionar plataforma" StyleClass="btnButon2"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

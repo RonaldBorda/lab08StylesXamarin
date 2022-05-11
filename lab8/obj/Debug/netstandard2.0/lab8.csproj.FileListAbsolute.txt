@@ -1,0 +1,16 @@
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/bin/Debug/netstandard2.0/lab8.deps.json
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/bin/Debug/netstandard2.0/lab8.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/bin/Debug/netstandard2.0/ref/lab8.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/bin/Debug/netstandard2.0/lab8.pdb
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.csproj.AssemblyReference.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/Styles/MainView.css.g.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.AssemblyInfoInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.AssemblyInfo.cs
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.csproj.CoreCompileInputs.cache
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/ref/lab8.dll
+/Users/ronaldborda/Documents/Tecsup2022-I/AppMovilMultiplataforma/labProjects/lab8/lab8/obj/Debug/netstandard2.0/lab8.pdb

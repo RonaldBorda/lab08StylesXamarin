@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E2FF070E-5A65-4732-B20C-19729B8A366B}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab8.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5E8767CF-4E3A-4394-A7A4-67D4B8FB94DD" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab8/Styles/MainView.css">
+    <Files>
+      <File FileName="lab8/Styles/MainView.css" Line="16" Column="4" />
+      <File FileName="lab8/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab8" expanded="True">
+            <Node name="lab8" expanded="True">
+              <Node name="Styles" expanded="True">
+                <Node name="MainView.css" selected="True" />
+              </Node>
+            </Node>
+            <Node name="lab8.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab8.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
